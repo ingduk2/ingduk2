@@ -1,4 +1,5 @@
 ### Hi there 👋
+![ingduk2's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ingduk2&count_private=true&theme=aura&show_icons=true)
 
 <!--
 **ingduk2/ingduk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
